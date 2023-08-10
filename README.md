@@ -24,5 +24,3 @@ Here are some commands that I wrote down after watching the tutorial:
 
 ## Inspirations:
   - https://www.codedex.io/projects
-
-# If you've read it - send me an eggplant emoji in messenger. The deadline is 10.08.023 23:54 CET. I'm gonna be really sad if you won't do it. :<
