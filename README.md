@@ -1,6 +1,6 @@
 # super-silly-project-s
 ## (づ ◕‿◕ )づ
-A repository that is supposed to help us
+A repository that is supposed to help us:
   - develop our fun IT projects;
   - learn how to use git and github.
 
