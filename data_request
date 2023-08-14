@@ -1,0 +1,21 @@
+# request for data for master thesis
+
+"""
+I will need historical price data for currencies, commodities and cryptocurrencies.
+  
+Every dataset need to have information about Open price, Close price, Lowest price, Highest price, Volumne
+
+Time range: at least one year (for minute intervals), at least 10 years (for daily intervals)
+
+Time interval: preferable daily time intervals but additional data with minute interals would be a plus
+
+
+
+Currencies: preferable at least THREE (e.g. USD/EUR, USD/CHF, PLN/EUR).
+
+Commodities: preferable at least two (e.g. OIL, WHEAT, GOLD)
+
+Cryptocurrencies: preferable at least two (e.g. BT, ETH)
+
+  
+"""
